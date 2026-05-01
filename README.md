@@ -112,7 +112,7 @@
 ## 📫 联系
 
 <p align="center">
-  <a href="mailto:xmrhapsody0806@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ChaosJulien@qq.com"><img src="https://img.shields.io/badge/ChaosJulien%40qq.com-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
   <a href="https://github.com/ChaosJulien"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
