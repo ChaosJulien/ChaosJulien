@@ -89,15 +89,39 @@
 
 ## ✨ 精选项目
 
-<p align="center">
-  <a href="https://github.com/ChaosJulien/deface">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosJulien&repo=deface&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosJulien&repo=XiaoYuanKouSuan_Auto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ChaosJulien/RDPGuard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosJulien&repo=RDPGuard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ChaosJulien/luci-app-drcom-auth">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosJulien&repo=luci-app-drcom-auth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ChaosJulien/deface">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosJulien&repo=deface&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 | 项目 | 说明 |
 |---|---|
-| 🎭 **[deface (fork)](https://github.com/ChaosJulien/deface)** | 给 ORB-HD/deface 加了 docx 工作流的 PySide6 GUI:YuNet 检测 + 高斯模糊 + Word 文档回写 |
+| 🧮 **[XiaoYuanKouSuan_Auto](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto)** ⭐626 | 小猿口算自动答题工具,Python OCR + 模拟点击,玩崩了一代家长鸡娃排行榜 |
+| 🛡️ **[RDPGuard](https://github.com/ChaosJulien/RDPGuard)** | Windows RDP 暴破检测 + 防火墙自动封禁 + 攻击取证 + 云/IDC IP 溯源 |
+| 🌐 **[luci-app-drcom-auth](https://github.com/ChaosJulien/luci-app-drcom-auth)** | OpenWrt / iStoreOS 校园网 Drcom 自动认证,掉线自愈 + LuCI 图形化 |
+| 🎭 **[deface (fork)](https://github.com/ChaosJulien/deface)** | 给 ORB-HD/deface 加 docx 工作流的 PySide6 GUI:YuNet 检测 + 高斯模糊 + Word 回写 |
 
 ---
 
