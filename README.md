@@ -22,9 +22,17 @@
 
 ## 🛠️ 技能栈
 
+<p align="center"><sub><b>语言 / Languages</b></sub></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,py,cs,html,js,ts,linux,bash,docker,git,vscode,bun,nodejs,sqlite&perline=8" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,py,cs,java,ts,js,html,css,bash&perline=10" />
+  </a>
+</p>
+
+<p align="center"><sub><b>运维 / DevOps / 移动 / 工具</b></sub></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,cloudflare,githubactions,ssh,ps,git,vscode,idea,androidstudio,xcode,sqlite&perline=14" />
   </a>
 </p>
 
@@ -32,8 +40,10 @@
   <img src="https://img.shields.io/badge/Vibe%20Coding-%F0%9F%A4%96%20with%20Claude-7c3aed?style=for-the-badge" alt="Vibe Coding" />
   <img src="https://img.shields.io/badge/Mac-000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac" />
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WSL" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Shorebird-1d2125?style=for-the-badge" alt="Shorebird" />
+  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
+  <img src="https://img.shields.io/badge/Infisical-4F2D7F?style=for-the-badge" alt="Infisical" />
+  <img src="https://img.shields.io/badge/frp-29ABE2?style=for-the-badge" alt="frp" />
 </p>
 
 ---
