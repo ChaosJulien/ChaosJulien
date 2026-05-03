@@ -131,7 +131,7 @@
 | 🧮 **[XiaoYuanKouSuan_Auto](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto)** ⭐626 | 小猿口算自动答题工具,Python OCR + 模拟点击,玩崩了一代家长鸡娃排行榜 |
 | 🛡️ **[RDPGuard](https://github.com/ChaosJulien/RDPGuard)** | Windows RDP 暴破检测 + 防火墙自动封禁 + 攻击取证 + 云/IDC IP 溯源 |
 | 🌐 **[luci-app-drcom-auth](https://github.com/ChaosJulien/luci-app-drcom-auth)** | OpenWrt / iStoreOS 校园网 Drcom 自动认证,掉线自愈 + LuCI 图形化 |
-| 🎭 **[deface (fork)](https://github.com/ChaosJulien/deface)** | 给 ORB-HD/deface 加 docx 工作流的 PySide6 GUI:YuNet 检测 + 高斯模糊 + Word 回写 |
+| 🎭 **[deface (fork)](https://github.com/ChaosJulien/deface)** | Office/ODF 文档人脸打码 PySide6 GUI:YuNet 检测 + 关键词 OCR(ocrmac/Tesseract)+ frosted/羽化/透明度,Windows 一键 .exe |
 
 ---
 
